@@ -1,0 +1,163 @@
+subject,topic,theory
+Math,Algebra,"# Algebra  
+
+**What is Algebra?**  
+Algebra is a branch of mathematics that uses symbols, variables, and letters to represent numbers and relationships. It provides a way to generalize arithmetic and solve problems systematically.  
+
+**Core Elements:**  
+1. **Variables** – symbols (x, y, z) representing unknown values.  
+2. **Constants** – fixed numbers.  
+3. **Expressions** – combinations of constants, variables, and operators.  
+4. **Equations** – statements where two expressions are equal.  
+
+**Examples:**  
+- Solve: 3x + 7 = 16 → x = 3.  
+- Simplify: (2x + 3) + (4x − 5) = 6x − 2.  
+
+**Importance:**  
+- Builds the foundation for advanced math.  
+- Used in computer science, engineering, economics, and physics."
+Math,Geometry,"# Geometry  
+
+**What is Geometry?**  
+Geometry studies shapes, sizes, and properties of figures in 2D and 3D space.  
+
+**Core Elements:**  
+1. Points, lines, and planes.  
+2. Angles, triangles, and polygons.  
+3. Circles, spheres, and 3D solids.  
+
+**Examples:**  
+- Pythagoras Theorem: a² + b² = c².  
+- Area of Circle = πr².  
+
+**Importance:**  
+- Used in design, construction, robotics, and navigation."
+Math,Trigonometry,"# Trigonometry  
+
+**What is Trigonometry?**  
+Trigonometry studies the relationships between the sides and angles of triangles.  
+
+**Core Elements:**  
+1. Sine, Cosine, Tangent (SOH-CAH-TOA).  
+2. Identities: sin²θ + cos²θ = 1.  
+3. Inverse and reciprocal functions.  
+
+**Examples:**  
+- sin(30°) = 1/2.  
+- tan(45°) = 1.  
+
+**Importance:**  
+- Applied in physics, astronomy, architecture, and waves."
+Math,Calculus,"# Calculus  
+
+**What is Calculus?**  
+Calculus studies change and motion through derivatives and integrals.  
+
+**Core Elements:**  
+1. Differentiation → rate of change.  
+2. Integration → area under curve.  
+3. Limits and continuity.  
+
+**Examples:**  
+- Derivative of x² = 2x.  
+- ∫x dx = x²/2 + C.  
+
+**Importance:**  
+- Widely used in physics, AI optimization, economics, and engineering."
+Math,Probability,"# Probability  
+
+**What is Probability?**  
+Probability measures the likelihood of events occurring.  
+
+**Core Elements:**  
+1. Experiment, outcome, sample space.  
+2. Probability of event = (favorable outcomes) / (total outcomes).  
+3. Independent vs dependent events.  
+
+**Examples:**  
+- Probability of rolling a 6 on a dice = 1/6.  
+- Probability of drawing a red card from deck = 26/52 = 1/2.  
+
+**Importance:**  
+- Applied in risk analysis, AI/ML models, and decision-making."
+Math,Statistics,"# Statistics  
+
+**What is Statistics?**  
+Statistics deals with data collection, analysis, interpretation, and presentation.  
+
+**Core Elements:**  
+1. Mean, Median, Mode.  
+2. Variance and Standard Deviation.  
+3. Correlation and Regression.  
+
+**Examples:**  
+- Mean of [2, 4, 6, 8] = 5.  
+- Standard deviation shows data spread.  
+
+**Importance:**  
+- Used in data science, economics, and social sciences."
+Math,Number Theory,"# Number Theory  
+
+**What is Number Theory?**  
+Number theory studies properties of integers and their relationships.  
+
+**Core Elements:**  
+1. Prime numbers.  
+2. Divisibility and modular arithmetic.  
+3. GCD, LCM.  
+
+**Examples:**  
+- 13 is prime.  
+- 7 mod 3 = 1.  
+
+**Importance:**  
+- Used in cryptography, coding theory, and computer security."
+Math,Linear Algebra,"# Linear Algebra  
+
+**What is Linear Algebra?**  
+Linear algebra studies vector spaces and linear transformations.  
+
+**Core Elements:**  
+1. Vectors and Matrices.  
+2. Determinants and Inverses.  
+3. Eigenvalues and Eigenvectors.  
+
+**Examples:**  
+- Matrix multiplication.  
+- Solve Ax = b.  
+
+**Importance:**  
+- Foundation of ML, graphics, physics, and engineering."
+Math,Differential Equations,"# Differential Equations  
+
+**What are Differential Equations?**  
+Equations involving derivatives that describe how quantities change.  
+
+**Core Elements:**  
+1. Ordinary Differential Equations (ODEs).  
+2. Partial Differential Equations (PDEs).  
+3. Solutions and stability.  
+
+**Examples:**  
+- dy/dx = ky → y = Ce^(kx).  
+- Heat equation (PDE).  
+
+**Importance:**  
+- Used in physics, control systems, AI models, biology."
+Math,Set Theory,"# Set Theory  
+
+**What is Set Theory?**  
+Set theory studies collections of objects.  
+
+**Core Elements:**  
+1. Union, Intersection, Difference.  
+2. Subsets and Power sets.  
+3. Venn diagrams.  
+
+**Examples:**  
+- A = {1,2,3}, B = {3,4,5}. A ∪ B = {1,2,3,4,5}.  
+- A ∩ B = {3}.  
+
+**Importance:**  
+- Basis of logic, probability, and computer science."
